@@ -1,0 +1,98 @@
+.homeLink {
+   text-decoration: none;
+   color: white;
+}
+
+.emailButton {
+   text-decoration: none;
+   color: green;
+   background-color: rgb(237, 226, 233);
+   padding: 10px 20px;
+   margin-right: 10px; /* Adds space between the buttons */
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.nameButton {
+   align-content: center;
+   text-decoration: none;
+   color: rgb(186, 69, 19);
+   background-color: rgb(237, 226, 233);
+   padding: 10px 20px;
+   border: thick;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.cityButton {
+   align-content: center;
+   text-decoration: none;
+   color: rgb(37, 218, 231);
+   background-color: rgb(237, 226, 233);
+   padding: 10px 20px;
+   border: thick;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.button-container {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.headStyle {
+   text-align: center;
+   text-decoration: none;
+   color: rgb(0, 19, 128);
+   background-color: rgb(237, 226, 233);
+}
+
+.headStyle {
+   text-align: center;
+   text-decoration: none;
+   color: rgb(178, 180, 67);
+   background-color: rgb(237, 226, 233);
+}
+.socialStyle{
+   align-content: center;
+   text-decoration: none;
+   color: rgb(68, 20, 211);
+   background-color: rgb(59, 69, 207);
+   padding: 10px 20px;
+   border: thick;
+   border-radius: 30px;
+   cursor: pointer;
+   justify-content: space-between;
+}
+   .socialStyle1{
+      align-content: center;
+      text-decoration: none;
+      color: rgb(147, 21, 72);
+      background-color: rgb(207, 59, 118);
+      padding: 10px 20px;
+      border: thick;
+      border-radius: 30px;
+      cursor: pointer;
+      justify-content: space-between;
+
+}
+
+.footStyle{
+   align-content: center;
+   text-decoration:underline;
+   color: rgb(155, 132, 225);
+   background-color: rgb(59, 69, 207);
+   padding: 10px 20px;
+   border: thick;
+   border-radius: 10px;
+
+
+
+}
+.textStyle {
+   color: white;
+   background-color: rgb(226, 128, 128);
+}
